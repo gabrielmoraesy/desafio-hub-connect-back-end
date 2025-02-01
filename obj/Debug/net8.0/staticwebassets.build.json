@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fXY+xtidGsttwZPIUugDIpS+GVo50JMVCG4373NJ3T0=",
+  "Source": "api-products-hub-connect",
+  "BasePath": "_content/api-products-hub-connect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
