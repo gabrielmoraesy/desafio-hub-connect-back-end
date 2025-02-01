@@ -23,8 +23,8 @@ O Moraes Store é uma aplicação de gerenciamento de produtos, permitindo que o
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
 
 - **Validações**: Zod e React Hook Form  
-  <img src="https://img.shields.io/badge/Zod-2F8F4F?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
+<img src="https://img.shields.io/badge/Zod-2F8F4F?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+<img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=react-hook-form&logoColor=white" alt="React Hook Form" />
 
 - **Requisições HTTP**: Axios  
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
