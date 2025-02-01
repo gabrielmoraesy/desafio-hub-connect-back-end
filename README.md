@@ -59,4 +59,4 @@ $ npm run dev
 - [x] O sistema permite atualizar as informações de um produto, como nome, descrição, preço, categoria e imagem;
 - [x] O sistema permite remover produtos do catálogo;
 - [x] O sistema permite pesquisar por produtos específicos;
-- [x] O sistema permite filtrar produtos por categoria, faixa de preço.
+- [x] O sistema permite filtrar produtos por categoria e nome dos produtos.
