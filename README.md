@@ -16,10 +16,10 @@ O Moraes Store é uma aplicação de gerenciamento de produtos, permitindo que o
 - **Back-end**: C# .Net 8  
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
 
-  - **Banco de Dados**: SQL Server 
+- **Banco de Dados**: SQL Server 
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 
-  - **Componentes**: Chakra ui
+- **Componentes**: Chakra ui
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=flat-square&logo=chakraui&logoColor=white" alt="Chakra UI" />
 
 - **Validações**: Zod e React Hook Form  
