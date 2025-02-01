@@ -33,20 +33,28 @@ Com uma interface amigável, o Moraes Store facilita a gestão de suas coleçõe
 
 ## Installation
 
+## Make sure you have .NET 8 installed on your machine
+
 ```bash
-$ npm install
+$ dotnet --version
 ```
 
-## Create .env file and paste paste inside it
+## Restore NuGet packages: In the project directory, run:
 
 ```bash
-$ NEXT_PUBLIC_BACKEND_URL=https://localhost:7270
+$ dotnet restore
 ```
 
-## Running the app
+## Database configuration
 
 ```bash
-$ npm run dev
+$ dotnet ef database update
+```
+
+## Run project
+
+```bash
+$ dotnet run
 ```
 
 ## Features
